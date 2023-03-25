@@ -1,0 +1,37 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2em 10em 1em 10em;
+    align-items: center;
+    justify-items: center;
+}
+
+.navbar_logo{
+    font-family: 'Lobster', cursive; 
+    font-size: 2em;
+}
+
+.navbar_links{
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5em;
+    display: flex;
+    gap: 2em;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar_links a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.navbar_links a:hover{
+    transition: 0.2s ease-out;
+    color: red;
+    border-bottom: 1px solid red;
+}
+
+.navbar_contact{
+    font-family: 'Poppins', sans-serif;
+}
