@@ -8,7 +8,7 @@ const Navbar = () => {
           Foodbar
         </div>
         <div className='navbar_links'>
-          <a href='#'>Home</a>
+          <a href='/'>Home</a>
           <a href='#'>Cart</a>
           <a href='#'>Profile</a>
         </div>

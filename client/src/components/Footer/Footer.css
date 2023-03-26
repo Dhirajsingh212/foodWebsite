@@ -1,0 +1,16 @@
+.footer{
+    background-color: #87CEFA;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Anton', sans-serif;
+}
+
+.footer_icon{
+    display: flex;
+    gap: 1em;
+    font-size: 1.5em;
+}

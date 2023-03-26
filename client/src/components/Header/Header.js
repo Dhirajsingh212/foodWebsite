@@ -6,7 +6,7 @@ const Header = () => {
     var settings = {
         autoplay: true,
         fade: true,
-        arrows:true,
+        arrows:false,
         infinite: true,
         slidesToShow: 1,
         slidesToScroll: 1,
